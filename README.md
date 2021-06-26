@@ -1,2 +1,2 @@
-# curly-telegram
+# 나혼자공부한다
 이론공부
